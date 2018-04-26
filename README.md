@@ -1,5 +1,5 @@
 # Depersonalize-Microsoft-SQL-database
-depersonalize Microsoft SQL database via profile
+Depersonalize Microsoft SQL database via profile
 
 •Randomize
 Randomize content of column
